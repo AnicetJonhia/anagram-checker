@@ -9,7 +9,7 @@ A fast and intuitive web application to find anagrams for any English word. Buil
 - **Search History**: Keep track of your previous searches
 - **Copy to Clipboard**: Easily copy anagrams with a single click
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
-- **Dark Mode Support**: Built-in theme switching
+
 
 ## Screenshots
 
@@ -139,9 +139,7 @@ Works on all modern browsers:
 - Firefox 88+
 - Safari 14+
 
-## License
 
-MIT
 
 ## Author
 
